@@ -13,6 +13,13 @@
 </p>
 
 
+### 💫 Activities
+
+  `2023.02~` Vice President in T.G.winG, Academic Club of the Department of CS, Kyung Hee Univ.<br>
+  `2022.07~2023.01` Active in KHUDA 2nd, Data Analysis Club, Kyung Hee Univ.<br>
+  `2022.02`  Admission to Kyung Hee Univ. Department of Artificial Intelligence
+
+
 ### 💪 Skills
 #### Frameworks & Languages
 <p>
