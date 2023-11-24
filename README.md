@@ -12,6 +12,9 @@
   My motif is <b>"Companion Growth"</b>. ✨ <br/><br/>
 </p>
 
+### 🏆 Awards
+  `2023.11` KHU SW FESTIVAL Junior Award<br>
+  `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize Award<br>
 
 ### 💫 Activities
 
