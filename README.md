@@ -13,6 +13,7 @@
 </p>
 
 ### 🏆 Awards
+  `2023.11` KHU School of Computing Track Study Project 3rd Award<br>
   `2023.11` KHU SW FESTIVAL Junior Award<br>
   `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize Award<br>
 
