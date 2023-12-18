@@ -20,7 +20,7 @@
 
 ### 💫 Activities
 
-  `2023.12~` President of the student council of the School of Computing <br>
+  `2023.12~` President of the student council, School of Computing, Kyung Hee Univ. <br>
   `2023.07~2023.12` Member of education department in KHUDA 4th, Data Analysis Club, Kyung Hee Univ.<br>
   `2023.02~2023.12` Vice President in T.G.winG, Academic Club of the Department of CS, Kyung Hee Univ.<br>
   `2022.07~2023.01` Active in KHUDA 2nd, Data Analysis Club, Kyung Hee Univ.<br>
