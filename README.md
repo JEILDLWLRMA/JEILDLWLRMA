@@ -19,7 +19,7 @@
   `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize Award<br>
 
 ### 💫 Activities
-
+  `2024.01` Completion of Silicon Valley Innovation & Startup Program, San Jose State University <br>
   `2023.12~` President of the student council, School of Computing, Kyung Hee Univ. <br>
   `2023.07~2023.12` Member of education department in KHUDA 4th, Data Analysis Club, Kyung Hee Univ.<br>
   `2023.02~2023.12` Vice President in T.G.winG, Academic Club of the Department of CS, Kyung Hee Univ.<br>
