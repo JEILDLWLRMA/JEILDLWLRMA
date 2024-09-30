@@ -15,7 +15,7 @@
 ### 🏆 Awards
   `2024.08` [K-HTML Hackathon Excellence Award](https://github.com/JEILDLWLRMA/k-html-2024)<br>
   `2024.05` [KHUTHON 2024 Excellence Award](https://swpf.khu.ac.kr/student/?idx=1459)<br>
-  `2023.12` [MAICON(Military AI Competition) Excellence Prize](https://maicon.kr/khucu/) Award<br>
+  `2023.12` [MAICON(Military AI Competition) Excellence Prize Award](https://maicon.kr/khucu/)<br>
   `2023.11` [KHU School of Computing Track Study Project 3rd Award](https://github.com/KHU-CSE/2023TS-ai_summerize_service)<br>
   `2023.11` [KHU SW FESTIVAL Junior Award](https://swpf.khu.ac.kr/student/?idx=1075)<br>
   `2023.11` [SCAICO(Seoul Central AI Competition) Grand Prize Award](https://github.com/KHAI-2023/Make_Anything_with_LEGO)<br>
