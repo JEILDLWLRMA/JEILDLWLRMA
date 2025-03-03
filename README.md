@@ -6,7 +6,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>undergraduate student</b> majoring in <b>AI</b>.🚀<br/>
-  🧑‍💻&nbsp; I've recently become interested in front-end, so I'm studying <b>Flutter</b>.💡<br/>
+  🧑‍💻&nbsp; I've recently become interested Multimodal Learning especially Image Captioning <b>Flutter</b>.💡<br/>
 <br/>
   I enjoy football, basketball. 🏟️ ⛹️‍♂️<br/>
   My motif is <b>"Companion Growth"</b>. ✨ <br/><br/>
@@ -21,9 +21,10 @@
   `2023.11` [SCAICO(Seoul Central AI Competition) Grand Prize Award](https://github.com/KHAI-2023/Make_Anything_with_LEGO)<br>
 
 ### 💫 Activities
+  `2025.02~` Internship Trainee, KIST Europe <br>
   `2024.03~` Affiliated as an undergraduate researcher at Visual Artificial Intelligence Lab, Kyung Hee Univ. <br>
   `2024.01` Completion of Silicon Valley Innovation & Startup Program, San Jose State Univ. <br>
-  `2023.12~` President of the student council, School of Computing, Kyung Hee Univ. <br>
+  `2024.01~2024.12` President of the student council, School of Computing, Kyung Hee Univ. <br>
   `2023.07~2023.12` Member of education department in KHUDA 4th, Data Analysis Club, Kyung Hee Univ.<br>
   `2023.02~2023.12` Vice President in T.G.winG, Academic Club of the Department of CS, Kyung Hee Univ.<br>
   `2022.07~2023.01` Active in KHUDA 2nd, Data Analysis Club, Kyung Hee Univ.<br>
