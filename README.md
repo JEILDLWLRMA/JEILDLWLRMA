@@ -6,7 +6,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>undergraduate student</b> majoring in <b>AI</b>.🚀<br/>
-  🧑‍💻&nbsp; I've recently become interested Multimodal Learning especially Image Captioning <b>Flutter</b>.💡<br/>
+  🧑‍💻&nbsp; I've recently become interested Multimodal Learning especially <b>Image Captioning</b>.💡<br/>
 <br/>
   I enjoy football, basketball. 🏟️ ⛹️‍♂️<br/>
   My motif is <b>"Companion Growth"</b>. ✨ <br/><br/>
