@@ -13,12 +13,12 @@
 </p>
 
 ### 🏆 Awards
-  `2024.08` [K-HTML Hackathon Excellence Award]<br>
-  `2024.05` [KHUTHON 2024 Excellence Award]<br>
-  `2023.12` [MAICON(Military AI Competition) Excellence Prize Award]<br>
-  `2023.11` [KHU School of Computing Track Study Project 3rd Award]<br>
-  `2023.11` [KHU SW FESTIVAL Junior Award]<br>
-  `2023.11` [SCAICO(Seoul Central AI Competition) Grand Prize Award]<br>
+  `2024.08` K-HTML Hackathon Excellence Award<br>
+  `2024.05` KHUTHON 2024 Excellence Award<br>
+  `2023.12` MAICON(Military AI Competition) Excellence Prize Award<br>
+  `2023.11` KHU School of Computing Track Study Project 3rd Award<br>
+  `2023.11` KHU SW FESTIVAL Junior Award<br>
+  `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize Award<br>
 
 ### 💫 Activities
   `2025.02~` Internship Trainee, KIST Europe <br>
