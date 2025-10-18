@@ -1,5 +1,5 @@
 <p>
-  <a href="https://spotty-rainbow-7e5.notion.site/b79d0c9955774d5da5c410785c110e9f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-sqqare&logo=Notion&logoColor=#000000"/></a>
+  <a href="[https://spotty-rainbow-7e5.notion.site/b79d0c9955774d5da5c410785c110e9f?pvs=4](https://www.notion.so/Portfolio-23df3368279280bda5c0f5135852e9e5?source=copy_link)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-sqqare&logo=Notion&logoColor=#000000"/></a>
   <a href="https://www.instagram.com/hyeokseung_e/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:hyeokseung1208@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hyeokseung1208@khu.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
