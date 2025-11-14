@@ -21,7 +21,8 @@
   `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize Award<br>
 
 ### 💫 Activities
-  `2025.02~` Internship Trainee, KIST Europe <br>
+  `2025.09~` AI Engineer Intern, Nota Inc. <br>
+  `2025.02~07` Internship Trainee, KIST Europe <br>
   `2024.03~` Affiliated as an undergraduate researcher at Visual Artificial Intelligence Lab, Kyung Hee Univ. <br>
   `2024.01` Completion of Silicon Valley Innovation & Startup Program, San Jose State Univ. <br>
   `2024.01~2024.12` President of the student council, School of Computing, Kyung Hee Univ. <br>
