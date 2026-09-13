@@ -21,7 +21,8 @@
   `2023.11` SCAICO(Seoul Central AI Competition) Grand Prize Award<br>
 
 ### 💫 Activities
-  `2025.09~` AI Engineer Intern, Nota Inc. <br>
+  `2026.03~` AI Engineer, Republic of Korea Airforce (Mandatory Military Service). <br>
+  `2025.09~2026.02` AI Engineer Intern, Nota Inc. <br>
   `2025.02~07` Internship Trainee, KIST Europe <br>
   `2024.03~` Affiliated as an undergraduate researcher at Visual Artificial Intelligence Lab, Kyung Hee Univ. <br>
   `2024.01` Completion of Silicon Valley Innovation & Startup Program, San Jose State Univ. <br>
